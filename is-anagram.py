@@ -10,7 +10,7 @@
 # Output: false
 
 
-def is_anagram(self, s, t):
+def is_anagram(s, t):
     if len(s) != len(t):
         return False
 
