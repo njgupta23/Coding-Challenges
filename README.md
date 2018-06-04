@@ -7,3 +7,4 @@ A growing collection of coding challenges I have encountered.
   - [Decrypt Message](https://github.com/njgupta23/Coding-Challenges/blob/master/decrypt-msg.py)
   - [K-Messed Array Sort](https://github.com/njgupta23/Coding-Challenges/blob/master/k-messed-array-sort.py)
   - [Reverse String](https://github.com/njgupta23/Coding-Challenges/blob/master/rev-str.py)
+  - [Is Anagram](https://github.com/njgupta23/Coding-Challenges/blob/master/is-anagram.py)
