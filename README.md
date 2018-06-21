@@ -6,3 +6,5 @@ A growing collection of coding challenges I have encountered.
   - [Reimann's Sum](https://github.com/njgupta23/Coding-Challenges/blob/master/reimanns-sum.py) | Background: [What is a Reimann's Sum](https://en.wikipedia.org/wiki/Riemann_sum)
   - [Decrypt Message](https://github.com/njgupta23/Coding-Challenges/blob/master/decrypt-msg.py)
   - [K-Messed Array Sort](https://github.com/njgupta23/Coding-Challenges/blob/master/k-messed-array-sort.py)
+  - [Get Load Order](https://github.com/njgupta23/Coding-Challenges/blob/master/get-load-order.py)
+  - [Reverse a String](https://github.com/njgupta23/Coding-Challenges/blob/master/rev-str.py)
