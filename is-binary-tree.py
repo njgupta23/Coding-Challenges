@@ -10,4 +10,17 @@
 
 def is_binary(node_pairs):
 
-    
+
+
+
+"""
+Given a list of tuples indicating node connections, determine if the
+tuples can be represented as a linked list.
+
+eg. [(1,2), (2,3)] >>> True
+explanation: 1 -> 2 -> 3
+
+eg. [(1,2), (3, 4)] >>> False
+explanation: 1 -> 2  3 -> 4
+
+"""

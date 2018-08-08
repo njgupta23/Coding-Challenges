@@ -8,3 +8,7 @@ A growing collection of coding challenges I have encountered.
   - [K-Messed Array Sort](https://github.com/njgupta23/Coding-Challenges/blob/master/k-messed-array-sort.py)
   - [Get Load Order](https://github.com/njgupta23/Coding-Challenges/blob/master/get-load-order.py)
   - [Reverse a String](https://github.com/njgupta23/Coding-Challenges/blob/master/rev-str.py)
+  /master/get-load-order.py)
+  - [Pairs of 100](https://github.com/njgupta23/Coding-Challenges/blob/master/pairs-of-100.py)
+  /master/get-load-order.py)
+  - [Has Pair](https://github.com/njgupta23/Coding-Challenges/blob/master/has-pair.py)
