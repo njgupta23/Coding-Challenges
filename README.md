@@ -12,3 +12,4 @@ A growing collection of coding challenges I have encountered.
   - [Pairs of 100](https://github.com/njgupta23/Coding-Challenges/blob/master/pairs-of-100.py)
   /master/get-load-order.py)
   - [Has Pair](https://github.com/njgupta23/Coding-Challenges/blob/master/has-pair.py)
+  - [Max Span](https://github.com/njgupta23/Coding-Challenges/blob/master/max-span.py)
