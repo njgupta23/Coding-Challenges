@@ -14,3 +14,4 @@ A growing collection of coding challenges I have encountered.
   - [Has Pair](https://github.com/njgupta23/Coding-Challenges/blob/master/has-pair.py)
   - [Max Span](https://github.com/njgupta23/Coding-Challenges/blob/master/max-span.py)
   - [Without String](https://github.com/njgupta23/Coding-Challenges/blob/master/without-str.py)
+  - [Sum Numbers](https://github.com/njgupta23/Coding-Challenges/blob/master/sum-nums.py)
