@@ -17,3 +17,4 @@ A growing collection of coding challenges I have encountered.
   - [Sum Numbers](https://github.com/njgupta23/Coding-Challenges/blob/master/sum-nums.py)
   - [Can Balance](https://github.com/njgupta23/Coding-Challenges/blob/master/can-balance.py)
   - [Interpret](https://github.com/njgupta23/Coding-Challenges/blob/master/interpret.py)
+  - [Evenly Spaced](https://github.com/njgupta23/Coding-Challenges/blob/master/evenly-spaced.py)
