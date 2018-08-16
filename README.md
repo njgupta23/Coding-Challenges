@@ -16,3 +16,4 @@ A growing collection of coding challenges I have encountered.
   - [Without String](https://github.com/njgupta23/Coding-Challenges/blob/master/without-str.py)
   - [Sum Numbers](https://github.com/njgupta23/Coding-Challenges/blob/master/sum-nums.py)
   - [Can Balance](https://github.com/njgupta23/Coding-Challenges/blob/master/can-balance.py)
+  - [Interpret](https://github.com/njgupta23/Coding-Challenges/blob/master/interpret.py)
