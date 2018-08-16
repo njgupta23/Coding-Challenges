@@ -18,3 +18,4 @@ A growing collection of coding challenges I have encountered.
   - [Can Balance](https://github.com/njgupta23/Coding-Challenges/blob/master/can-balance.py)
   - [Interpret](https://github.com/njgupta23/Coding-Challenges/blob/master/interpret.py)
   - [Evenly Spaced](https://github.com/njgupta23/Coding-Challenges/blob/master/evenly-spaced.py)
+  - [Make Bricks](https://github.com/njgupta23/Coding-Challenges/blob/master/make-bricks.py)
