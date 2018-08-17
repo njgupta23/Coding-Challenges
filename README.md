@@ -19,3 +19,5 @@ A growing collection of coding challenges I have encountered.
   - [Interpret](https://github.com/njgupta23/Coding-Challenges/blob/master/interpret.py)
   - [Evenly Spaced](https://github.com/njgupta23/Coding-Challenges/blob/master/evenly-spaced.py)
   - [Make Bricks](https://github.com/njgupta23/Coding-Challenges/blob/master/make-bricks.py)
+  - [Is Subsequence](https://github.com/njgupta23/Coding-Challenges/blob/master/is_subseq.py)
+  - [Longest Substring](https://github.com/njgupta23/Coding-Challenges/blob/master/longest-substring.py)
