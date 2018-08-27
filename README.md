@@ -20,4 +20,5 @@ A growing collection of coding challenges I have encountered.
   - [Evenly Spaced](https://github.com/njgupta23/Coding-Challenges/blob/master/evenly-spaced.py)
   - [Make Bricks](https://github.com/njgupta23/Coding-Challenges/blob/master/make-bricks.py)
   - [Is Subsequence](https://github.com/njgupta23/Coding-Challenges/blob/master/is_subseq.py)
-  - [Longest Substring](https://github.com/njgupta23/Coding-Challenges/blob/master/longest-substring.py)
+  - [Longest Subsequence](https://github.com/njgupta23/Coding-Challenges/blob/master/longest-subseq.py)
+  - [Climbing Stairs](https://github.com/njgupta23/Coding-Challenges/blob/master/climbing-stairs.py)
