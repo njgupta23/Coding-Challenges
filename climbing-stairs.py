@@ -22,3 +22,25 @@ def steps(n):
 
 	if n > 0:
 		return steps(n-1) + steps(n-2) + steps(n-3)
+
+
+# More efficient method, which stores previously computed permutations:
+
+def steps_cache(n):
+
+	cache = [None] * (n+1)
+
+	def _steps(n):
+
+		if n == 0:
+			return 1
+		if n < 0:
+			return 0
+
+		if cache[n] is None:
+			cache[n] = _steps(n-1) + _steps(n-2) + _steps(n-3)
+
+		return cache[n]
+
+	return _steps(n)
+

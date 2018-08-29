@@ -22,3 +22,5 @@ A growing collection of coding challenges I have encountered.
   - [Is Subsequence](https://github.com/njgupta23/Coding-Challenges/blob/master/is_subseq.py)
   - [Longest Subsequence](https://github.com/njgupta23/Coding-Challenges/blob/master/longest-subseq.py)
   - [Climbing Stairs](https://github.com/njgupta23/Coding-Challenges/blob/master/climbing-stairs.py)
+  - [Stock Prices](https://github.com/njgupta23/Coding-Challenges/blob/master/stock-prices.py)
+  - [Maximum Subarray](https://github.com/njgupta23/Coding-Challenges/blob/master/max-subarray.py)
